@@ -29,10 +29,10 @@
     <a href="https://codeforces.com/profile/anwartarek123"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 </p>
 
-- :school: I am a `student` at [Faculty of engineering computer and control system department](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Mansoura University](http://suez.edu.eg/ar/).
+- :school: I am a `graduated` from [Faculty of engineering computer and control system department](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Mansoura University](http://suez.edu.eg/ar/).
 - :technologist: I Love Programming as it helps me in solving my `Problems`.
-- :computer: I am a competitive programmer at `codewars`, `codeforces`.
-- :student: I’m currently learning `Web development` and `Software Engineering and computer science`.
+- :computer: I am a competitive programmer at `codewars`, `codeforces` , `leetcode`.
+- graduated: I’m currently learning `Web development` and `Software Engineering and computer science`.
 - :nerd_face: Always `learning new technologies`.
 - :boom: You can visit [my website](https://www.linkedin.com/in/anwar-tarek-699b4824a/).
 <br>
