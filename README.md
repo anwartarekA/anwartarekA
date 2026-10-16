@@ -269,3 +269,4 @@ I'm a software engineer and full-stack developer specializing in the **MERN** an
     <img alt="Snake eating my contributions graph" src="https://raw.githubusercontent.com/anwartarekA/anwartarekA/output/github-snake.svg" />
   </picture>
 </p>
+
