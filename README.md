@@ -270,3 +270,10 @@ I'm a software engineer and full-stack developer specializing in the **MERN** an
   </picture>
 </p>
 
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anwartarekA/gitartwork.svg" />
+  </picture>
+</p>
