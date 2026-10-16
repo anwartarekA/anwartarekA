@@ -194,6 +194,12 @@ I'm a software engineer and full-stack developer specializing in the **MERN** an
 </table>
 
 ---
+## 😊 
+<p align="center">
+  <img src="./gitartwork.svg" alt="Gitartwork" width="100%">
+</p>
+
+</p> 
 
 ## 🛠️ Skills
 
@@ -261,19 +267,12 @@ I'm a software engineer and full-stack developer specializing in the **MERN** an
 </p>
 
 ---
-## 😊I am 
-<p align="center">
-  <img src="./gitartwork.svg" alt="Gitartwork" width="100%">
-</p>
 
-</p> 
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anwartarekA/anwartarekA/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anwartarekA/anwartarekA/output/github-snake.svg" />
     <img alt="Snake eating my contributions graph" src="https://raw.githubusercontent.com/anwartarekA/anwartarekA/output/github-snake.svg" />
   </picture>
 </p>
