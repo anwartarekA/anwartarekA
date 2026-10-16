@@ -202,6 +202,7 @@ I'm a software engineer and full-stack developer specializing in the **MERN** an
 <p align="center">
   <img src="./gitartwork.svg" width="100%"/>
 </p>
+
 ## 🛠️ Skills
 
 ### Languages
